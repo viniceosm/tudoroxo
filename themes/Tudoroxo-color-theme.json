@@ -15,7 +15,7 @@
 		"list.inactiveSelectionBackground": "#1f292e",
 		"list.inactiveSelectionForeground": "#309687",
 		"list.hoverBackground": "#182328",
-		"list.highlightForeground": "#4f3096",
+		"list.highlightForeground": "#FFFFFF",
 		"pickerGroup.foreground": "#309687",
 		"button.background": "#455c67",
 		"button.hoverBackground": "#263238",

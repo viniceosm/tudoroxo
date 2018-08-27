@@ -90,7 +90,9 @@
 		"terminal.ansiBrightBlue": "#82aaff",
 		"terminal.ansiBrightMagenta": "#f77669",
 		"terminal.ansiBrightCyan": "#7fcac3",
-		"terminal.ansiBrightWhite": "#b2ccd6"
+		"terminal.ansiBrightWhite": "#b2ccd6",
+		"titleBar.activeBackground": "#322053",
+		"titleBar.activeForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
